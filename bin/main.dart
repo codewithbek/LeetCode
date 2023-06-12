@@ -1,6 +1,9 @@
-import 'easy/problem11.dart';
-import 'easy/problem12.dart';
+
+import 'easy/problem13.dart';
+
+
 
 void main(List<String> arguments) {
-  reverseString(["h", "e", "l", "l", "o"]);
+  
+  print(removeElement([3, 2, 2, 3], 2));
 }
