@@ -1,9 +1,5 @@
-
-import 'easy/problem13.dart';
-
-
+import 'easy/problem14.dart';
 
 void main(List<String> arguments) {
-  
-  print(removeElement([3, 2, 2, 3], 2));
+  print(addDigits(38));
 }
