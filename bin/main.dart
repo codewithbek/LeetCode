@@ -1,5 +1,5 @@
-import 'easy/problem14.dart';
+import 'easy/problem15.dart';
 
 void main(List<String> arguments) {
-  print(addDigits(38));
+  print(isPowerOfTwo(9));
 }
