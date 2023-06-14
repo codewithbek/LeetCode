@@ -1,5 +1,6 @@
-import 'easy/problem016.dart';
+
+import 'easy/problem017.dart';
 
 void main(List<String> arguments) {
-  print(isPowerOfThree(9));
+  print(plusOne([1,2,3]));
 }
