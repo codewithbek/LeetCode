@@ -1,6 +1,5 @@
-
-import 'easy/problem018.dart';
+import 'easy/problem019.dart';
 
 void main(List<String> arguments) {
-  print(reverseWords("LeetCode contest"));
+  print(reverseStr('abcd',2));
 }
