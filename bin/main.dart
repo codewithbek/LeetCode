@@ -1,6 +1,6 @@
-import 'easy/problem021.dart';
+
+import 'easy/problem022.dart';
 
 void main() {
-List<String> strs1 = ["flower","flow","flight"];
-print(longestCommonPrefix(strs1));  // Output: "fl"
+  print(wordPattern('abba', 'dog cat cat dog')); // Output: "fl"
 }
