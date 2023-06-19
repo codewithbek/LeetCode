@@ -7,17 +7,19 @@ List<int> intersect(List<int> nums1, List<int> nums2) {
   Map<int, int> freqMap = {};
 
   // Count the frequency of elements in nums1
-  for (int num in nums1) {
-    freqMap[num] = (freqMap[num] ?? 0) + 1;
+  for (int e in nums1) {
+    print("e $e");
+    freqMap[e] = (freqMap[e] ?? 0) + 1;
+    print("freqMap=> ${freqMap[e]}");
   }
 
   List<int> result = [];
 
   // Find the intersection in nums2
-  for (int num in nums2) {
-    if (freqMap.containsKey(num) && freqMap[num]! > 0) {
-      result.add(num);
-      freqMap[num] = freqMap[num]! - 1;
+  for (int e in nums2) {
+    if (freqMap.containsKey(e) && freqMap[e]! > 0) {
+      result.add(e);
+      freqMap[e] = freqMap[e]! - 1;
     }
   }
 
