@@ -1,4 +1,4 @@
-import 'easy/problem024.dart';
+import 'easy/25/problem24.dart';
 
 void main() {
   // Create a sample linked list: 1 -> 2 -> 3 -> 4 -> 5
