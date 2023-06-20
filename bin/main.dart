@@ -1,6 +1,5 @@
-
-import 'easy/problem022.dart';
+import 'easy/problem023.dart';
 
 void main() {
-  print(wordPattern('abba', 'dog cat cat dog')); // Output: "fl"
+  print(missingNumber([0, 1, 2]));
 }
