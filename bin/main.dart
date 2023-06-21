@@ -1,5 +1,6 @@
-import 'easy/25/problem25.dart';
+
+import 'easy/50/problem27.dart';
 
 void main() {
-  print(isPalindrome("A man, a plan, a canal: Panama"));
+  print(addToArrayForm([1, 2, 0, 0], 34));
 }
