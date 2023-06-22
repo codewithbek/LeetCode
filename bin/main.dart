@@ -1,5 +1,5 @@
-import 'easy/50/problem28.dart';
+import 'easy/50/problem29.dart';
 
 void main() {
-  print(smallestEvenMultiple(6));
+  print(commonFactors(19, 10));
 }
