@@ -1,5 +1,5 @@
-import 'easy/50/problem29.dart';
+import 'easy/50/problem30.dart';
 
 void main() {
-  print(commonFactors(19, 10));
+  print(sumOfSquares(19));
 }
