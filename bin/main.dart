@@ -1,5 +1,6 @@
-import 'easy/50/problem30.dart';
+
+import 'easy/50/problem31.dart';
 
 void main() {
-  print(sumOfSquares(19));
+  print(fizzBuzz(15));
 }
