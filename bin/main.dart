@@ -1,6 +1,5 @@
-
-import 'easy/50/problem31.dart';
+import 'easy/50/problem32.dart';
 
 void main() {
-  print(fizzBuzz(15));
+  print(isAnagram("anagram", 'nagaram'));
 }
