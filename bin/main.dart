@@ -1,5 +1,5 @@
-import 'easy/50/problem32.dart';
+import 'easy/50/problem33.dart';
 
 void main() {
-  print(isAnagram("anagram", 'nagaram'));
+  print(convertToBase7(-7));
 }
