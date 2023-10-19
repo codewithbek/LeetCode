@@ -1,7 +1,8 @@
 
 
-import 'easy/50/problem35.dart';
+
+import 'easy/50/problem37.dart';
 
 void main() {
-  print(removeDuplicates([1, 1, 2]));
+  print(toLowerCase('LOVELY'));
 }
