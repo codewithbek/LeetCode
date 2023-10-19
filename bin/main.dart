@@ -1,5 +1,5 @@
-import 'easy/50/problem33.dart';
+import 'easy/50/problem34.dart';
 
 void main() {
-  print(convertToBase7(-7));
+  print(backspaceCompare("ab#c", "ad#c"));
 }
