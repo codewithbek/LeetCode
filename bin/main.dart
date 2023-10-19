@@ -1,5 +1,7 @@
-import 'easy/50/problem34.dart';
+
+
+import 'easy/50/problem35.dart';
 
 void main() {
-  print(backspaceCompare("ab#c", "ad#c"));
+  print(removeDuplicates([1, 1, 2]));
 }
