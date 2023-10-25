@@ -1,5 +1,5 @@
-import 'easy/50/problem39.dart';
+import 'easy/50/problem41.dart';
 
 void main() {
-  print(numJewelsInStones('aA', 'aAAbbbb'));
+  print(isUgly(14));
 }
