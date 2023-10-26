@@ -1,5 +1,6 @@
-import 'easy/50/problem41.dart';
+import 'easy/50/problem42.dart';
 
 void main() {
-  print(isUgly(14));
+  print(findTheDifference('abcd', 'abcde'));
+ 
 }
