@@ -1,5 +1,5 @@
-import 'easy/50/problem43.dart';
+import 'easy/50/problem44.dart';
 
 void main() {
-  print(maximumNumberOfStringPairs(["cd", "ac", "dc", "ca", "zz"]));
+  print(isAcronym(["alice", "bob", "charlie"], 'abc'));
 }

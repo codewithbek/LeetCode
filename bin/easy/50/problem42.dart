@@ -10,10 +10,4 @@ String findTheDifference(String s, String t) {
   }
   return String.fromCharCode(result);
 }
-  // String string = 'Hello, 😊!';
-
-  // // Using runes to iterate over the characters in the string
-  // for (int rune in string.runes) {
-  //   print('Unicode code point: $rune, Character: ${String.fromCharCode(rune)}');
-  // }
 
