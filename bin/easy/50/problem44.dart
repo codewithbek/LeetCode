@@ -11,10 +11,11 @@ bool isAcronym(List<String> words, String s) {
   if (words.length != s.length) {
     return false;
   }
-  for (var i = 0; i < words.length; i++) {
-    if (words[i][0] != s[i]) {
-      return false;
-    }
-  }
-  return true;
+  // for (var i = 0; i < words.length; i++) {
+  //   if (words[i][0] != s[i]) {
+  //     return false;
+  //   }
+  // }
+  // return true;
+  return words.every((word) => word[0] == s[words.indexOf(word)]);
 }

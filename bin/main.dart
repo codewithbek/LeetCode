@@ -1,5 +1,6 @@
-import 'easy/50/problem44.dart';
 
-void main() {
-  print(isAcronym(["alice", "bob", "charlie"], 'abc'));
+import 'easy/50/problem45.dart';
+
+void main(List<String> args) {
+  print(sumOfSquares([1, 2, 3, 4]));
 }
