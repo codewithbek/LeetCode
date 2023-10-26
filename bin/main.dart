@@ -1,6 +1,5 @@
-import 'easy/50/problem42.dart';
+import 'easy/50/problem43.dart';
 
 void main() {
-  print(findTheDifference('abcd', 'abcde'));
- 
+  print(maximumNumberOfStringPairs(["cd", "ac", "dc", "ca", "zz"]));
 }
