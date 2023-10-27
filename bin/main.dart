@@ -1,6 +1,5 @@
-
-import 'easy/50/problem45.dart';
+import 'easy/50/problem46.dart';
 
 void main(List<String> args) {
-  print(sumOfSquares([1, 2, 3, 4]));
+  print(firstPalindrome(["notapalindrome", "racecar"]));
 }
