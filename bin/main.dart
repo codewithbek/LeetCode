@@ -1,5 +1,5 @@
-import 'easy/50/problem46.dart';
+import 'easy/50/problem47.dart';
 
 void main(List<String> args) {
-  print(firstPalindrome(["notapalindrome", "racecar"]));
+  print(findDifference([1, 2, 3, 3], [1, 1, 2, 2]));
 }
