@@ -1,6 +1,5 @@
-import 'easy/50/problem49.dart';
+import 'easy/50/problem48.dart';
 
 void main(List<String> args) {
-  print(
-      arraySign([9, 72, 34, 29, -49, -22, -77, -17, -66, -75, -44, -30, -24]));
+  print(differenceOfSum([1, 15, 6, 3]));
 }
