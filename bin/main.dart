@@ -1,5 +1,5 @@
-import 'easy/50/problem48.dart';
+import 'easy/50/problem50.dart';
 
 void main(List<String> args) {
-  print(differenceOfSum([1, 15, 6, 3]));
+  print(isPrefixString('iloveleetcode', ["apples", "i", "love", "leetcode"]));
 }
