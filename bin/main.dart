@@ -1,6 +1,6 @@
-import 'easy/75/problem53.dart';
+import 'easy/75/problem54.dart';
 
 void main(List<String> args) {
-  print(reversePrefix("abcdefd", 'd'));
+  print(countSymmetricIntegers(1,100));
   
 }
