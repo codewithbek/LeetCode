@@ -1,7 +1,7 @@
-import 'easy/75/problem58.dart';
+import 'easy/75/problem61.dart';
 
 void main(List<String> args) {
-  print(firstUniqChar('leetcode'));
+  print(findDelayedArrivalTime(15,5));
 }
 
 
